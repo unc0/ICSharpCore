@@ -1,6 +1,6 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <Description>Jupyter Notebook Kernel in .NET Standard 2.x.</Description>
     <Copyright>Apache 2.0</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
